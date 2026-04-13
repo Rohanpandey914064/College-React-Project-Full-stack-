@@ -1,0 +1,10 @@
+[
+  { "name": "Aryan", "email": "tiwariaryan.2005@gmail.com", "password": "password123" },
+  { "name": "Alex", "email": "alex@example.com", "password": "password123" },
+  { "name": "Priya", "email": "priya@example.com", "password": "password123" },
+  { "name": "Rohan", "email": "rohan@example.com", "password": "password123" },
+  { "name": "Sara", "email": "sara@example.com", "password": "password123" },
+  { "name": "Dev", "email": "dev@example.com", "password": "password123" },
+  { "name": "Mia", "email": "mia@example.com", "password": "password123" },
+  { "name": "Zara", "email": "zara@example.com", "password": "password123" }
+]
