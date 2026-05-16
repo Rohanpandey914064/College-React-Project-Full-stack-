@@ -58,4 +58,4 @@ QuizMaster Pro is a high-performance, visually stunning React-based quiz applica
 - **Member 4 (Analytics & Ranking)**: Result breakdown and global ranking system.
 
 ## 📄 License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE` for more information , good.
